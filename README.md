@@ -6,9 +6,9 @@ Developed a simple Brick Game using Java Swing and AWT.
 Implemented core programming concepts, including polymorphism, interfaces, and graphical rendering.
 Programmed all shapes and positions without using actual image files, relying on calculations and drawings within the application.
 ## Technologies and Skills
-Java 11 (Java Swing and AWT): The project was developed using Java 11 with Java Swing and AWT, showcasing strong proficiency in Java programming and graphical rendering. <br>
-Polymorphism and Interfaces: Demonstrated a solid understanding of object-oriented programming concepts such as polymorphism and interfaces. <br>
-Graphics Programming: Expertly calculated and drew all shapes and positions within the program, without relying on external image files.
+<b>Java 11 (Java Swing and AWT)</b>: The project was developed using Java 11 with Java Swing and AWT, showcasing strong proficiency in Java programming and graphical rendering. <br>
+<b>Polymorphism and Interfaces</b>: Demonstrated a solid understanding of object-oriented programming concepts such as polymorphism and interfaces. <br>
+<b>Graphics Programming</b>: Expertly calculated and drew all shapes and positions within the program, without relying on external image files.
 # Getting Started
 To get started with this project, simply clone the repository and follow the instructions provided in the documentation to set up the development environment and run the game on your local machine.
 
